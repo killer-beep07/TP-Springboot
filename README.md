@@ -34,9 +34,12 @@ L'objectif principal de cette base de données est de fournir une solution fiabl
 # Illustration de la Base de Données
 ## Conception
 
-<img width="167" alt="image" src="https://github.com/killer-beep07/TP-Springboot/assets/130712993/2e44cc5d-f421-46f6-8e13-3fee8121a1d2">
+
 
 <img width="517" alt="image" src="https://github.com/killer-beep07/TP-Springboot/assets/130712993/4f37758c-0856-430b-8585-eaca04e17017">
+
+<img width="174" alt="image" src="https://github.com/killer-beep07/TP-Springboot/assets/130712993/2c943c1f-2527-48c1-8881-f974caf39b2d">
+
 
 
 ## Swagger
